@@ -9,9 +9,6 @@ alias doc='cd ~/Documents'
 alias code='cd ~/Code'
 alias repo='cd ~/Code/repo/'
 alias dev='cd ~/Bartosz/dev/'
-alias vm='cd /Users/bartosz/Code/repo/devvm'
-alias cvm='cd /Users/bartosz/Code/repo/clerk-devvm'
-
 
 alias ba='cd /Users/bartosz/Bartosz'
 alias www='cd /Users/bartosz/Bartosz/priv/www'
